@@ -5,7 +5,7 @@
 🏫 VIT Bhopal University  
 💻 Branch: Computer Science and Engineering- AL & ML
 
-## 🌱 About Me
+## About Me
 I am currently learning programming and exploring new technologies.
 I aim to build strong technical skills and work on real-world projects.
 
