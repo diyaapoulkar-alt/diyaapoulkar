@@ -9,7 +9,7 @@
 I am currently learning programming and exploring new technologies.
 I aim to build strong technical skills and work on real-world projects.
 
-## 🚀 Goals
+## Goals
 - Learn programming  
 - Build projects  
 - Improve problem-solving skills  
